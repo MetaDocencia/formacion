@@ -9,6 +9,20 @@ site: sandpaper::sandpaper_site
 El curso “Formación para enseñar” está diseñado para personas que enseñan o quieren enseñar programación y ciencias de datos, pero que rara vez han recibido una capacitación práctica sobre cómo se enseña y cómo aprenden las personas estos temas.
 En este curso, adquirirás conocimientos, habilidades y herramientas prácticas, con eficacia comprobada, para planificar, impartir y mejorar tus clases. El objetivo no es convertirte en especialista en educación, sino que puedas aplicar principios prácticos fundamentales de la enseñanza basada en evidencia en tus talleres y cursos.
 
+
+**Fechas:**
+- 14 de enero, 2026 - 9.00 a 17.00hs
+- 15 de enero, 2026 - 9.00 a 12.45hs
+- 16 de enero, 2026 - 9.00 a 12.45hs
+
+
+**Lugar:** Observatorio de Arecibo, Puerto Rico. 
+
+
+**Link para registrarte:** https://forms.zohopublic.com/coldspringharborlaboratory/form/Metadocencia/formperma/h5QgJLhCyX4hzou5KEC-4OfxIB7xKqmtaW0BcnUGJls
+
+
+
 ### Objetivos
 
 Esta capacitación tiene como objetivos:
@@ -29,13 +43,22 @@ Al concluir esta formación, podrás:
 ### ¿Para quién?
 
 No se requieren conocimientos técnicos avanzados. Sin embargo, esperamos que tengas alguna familiaridad básica con un lenguaje de programación (por ejemplo, R o Python).
-Para poder participar de forma activa y obtener el mayor provecho posible, trae tu computadora personal al asistir al taller.  
+
 
 Cuando diseñamos este taller, teníamos a Andrea, Florencia y Diego en mente: 
 
 - **Andrea** tiene 30 años, una beca postdoctoral y ansía entrar pronto a la carrera de investigación. Ganó su primer concurso docente y comenzará a enseñar análisis de datos usando R para estudiantes de grado de Biología Computacional. Sabe mucho sobre el tema que va a enseñar, pero no tiene formación docente y necesita herramientas para poder transmitir los contenidos de forma eficiente.
 - **Diego** trabaja como personal de apoyo a la investigación en una universidad, con amplia experiencia técnica en Git, Bash y Python, y suele facilitar talleres de estos temas para investigadores. Quiere transformar sus clases en experiencias más activas, aprender a anticipar dificultades comunes de principiantes y fortalecer la red de capacitación de su institución. Aunque domina lo técnico, le cuesta dosificar contenidos y ponerse en el lugar de quienes recién comienzan.
 - **Florencia** es docente universitaria con varios años de experiencia en clases magistrales y está en proceso de integrar metodologías activas en sus cursos. Aunque domina bien el contenido, busca estrategias concretas para fomentar la participación, estructurar actividades prácticas y evaluar el aprendizaje de manera más formativa. Le interesa aprender técnicas de enseñanza basadas en evidencia, aunque a veces le preocupa salir de su zona de confort y gestionar la incertidumbre que generan las clases más interactivas.
+
+### Requisitos
+
+- Para poder participar de forma activa y obtener el mayor provecho posible, **trae tu computadora personal al asistir al taller**.  
+
+- El uso de Wi-Fi está prohibido en el establecimiento. **Tu laptop debe contar con conexión por ethernet para acceder a internet en las salas de reuniones. Se recomienda enfáticamente traer un adaptador de ethernet**, ya que solo habrá un número limitado de adaptadores disponibles.
+
+
+
 
 ### ¿Qué no incluye este taller?
 
@@ -51,7 +74,8 @@ Entre otras cosas, quedan fuera del alcance del taller:
 El taller tiene una duración total de 16 horas, incluyendo los intervalos, distribuidas en 2 días de 8 horas o  4 días de 4 horas cada uno.
 A continuación tienes un ejemplo de cronograma:
 
-#### Día 1
+
+#### Día 1 (14 de enero, 2026)
 
 | Hora  | Tema |
 |-------|------|
@@ -69,7 +93,7 @@ A continuación tienes un ejemplo de cronograma:
 | 17:00 | Final del día 1 |
 
 
-#### Día 2
+#### Día 2 (15 de enero, 2026)
 
 |Hora         |Tema                                               |
 |-------------|---------------------------------------------------|
@@ -80,7 +104,7 @@ A continuación tienes un ejemplo de cronograma:
 |12:00        |Simulación de entrenamiento 1                      |
 |12:45        |Final del día 2                                    |
 
-#### Día 3                                                  
+#### Día 3 (16 de enero, 2026)                                                  
 
 |Hora         |Tema                                     |
 |-------------|-----------------------------------------|
@@ -95,12 +119,15 @@ A continuación tienes un ejemplo de cronograma:
 
 ### Certificación
 
-Para completar la capacitación y acceder a la certificación de MetaDocencia, deberás:
+Para completar la capacitación y acceder a la certificación de **MetaDocencia**, deberás:
 
-- Asistir a los días del curso presencial o virtual (según sea el caso).
+- Haberse registrado previamente vía este link: https://forms.zohopublic.com/coldspringharborlaboratory/form/Metadocencia/formperma/h5QgJLhCyX4hzou5KEC-4OfxIB7xKqmtaW0BcnUGJls
+
+- Asistir a los días del curso presencial.
+
 - Realizar una breve demostración de enseñanza (5 minutos) usando programación en vivo, que será evaluada según su claridad, manejo del tiempo y aplicación de buenas prácticas. Te daremos más detalles sobre este ítem durante el curso.
 
-
+A su vez, **Arecibo C3** otorgará un certificado por asistencia. 
 
 ## Nos presentamos
 
@@ -131,24 +158,18 @@ Si les gustaría conocer más sobre nosotros, pueden ingresar a [nuestra web](ht
 
 ### Docentes y equipo
 
-- **[Nicolás Palopoli](https://www.metadocencia.org/authors/npalopoli/)** Co-Director Ejecutivo y Chair del Consejo Asesor. Desde 2008 realiza tareas docentes de grado, posgrado y extensión, en modalidad presencial y virtual, tanto en UNQ como en otras instituciones educativas y para comunidades de práctica. Instructor y entrenador de instructores en The Carpentries.
-
-- **[Laura Ación](https://www.metadocencia.org/authors/lacion/)** Co-Directora Ejecutiva. Investigadora adjunta del CONICET en la Universidad de Buenos Aires, donde Co-dirige el Laboratorio de Uso Responsable de Datos. Tiene más de dos décadas de experiencia ofreciendo servicios de consultoría y enseñanza. 
-  
-- **[Jesica Formoso](https://www.metadocencia.org/authors/jformoso/)** Coordinadora del área de Medición de Impacto de MetaDocencia. Dra. en psicología cognitiva de la Universidad de Buenos Aires e investigadora adjunta de CONICET. Se dedica a la docencia y la investigación, destacándose como organizadora del capítulo de Buenos Aires de R-Ladies. Instructora certificada de RStudio y The Carpentries.
-
-- **[Paz Miguez](https://www.metadocencia.org/authors/pazmiguez/)** Coordinadora de áreas Institucional y Formación. Licenciada en Ciencia Política, con una Maestría en Política Educativa y un Profesorado en Docencia Superior. Más de 15 años de experiencia, en el diseño, gestión y monitoreo de programas educativos.
-  
-- **[Julián Buede](https://www.metadocencia.org/authors/jbuede/)** Equipo de Comunicación. Se especializa en formatos para contenidos audiovisuales educativos, especialmente en el ámbito de tutoriales y clases asincrónicas, con el objetivo de desarrollar formas creativas de presentar información.
-  
-- **[Irene Vazano](https://www.metadocencia.org/authors/irenevazano/)** Coordinadora del área de Infraestructura. Licenciada en Bibliotecología en la UCSE-DABA. Con experiencia de trabajo en bibliotecas académicas y como profesional independiente en diversos proyectos digitales, desempeñando roles de administración y garantizando la calidad de accesibilidad.
+ 
+- **[Jesica Formoso](https://www.metadocencia.org/authors/jformoso/)** Coordinadora del área de Investigación y Medición de Impacto de MetaDocencia, psicóloga cognitiva y Doctora en Psicología por la Universidad de Buenos Aires. Se desempeña como Investigadora Adjunta de CONICET y docente en programación y estadística. Participa activamente en comunidades de programación y ciencia de datos como coorganizadora de R-Ladies Buenos Aires e integrante de R-Ladies Global y R-Forwards. Además, es instructora certificada de RStudio y The Carpentries.
 
 
-## Antes de empezar
+- **[María Cristina Nanton](https://metadocencia.org/author/maria-cristina-nanton/)** Coordinadora del equipo de ciencia de datos en el Ministerio de Salud de la Ciudad de Buenos Aires, desarrolladora de Inteligencia Artificial en The Global Health Network y colaboradora en MetaDocencia. Comunicadora Social y maestranda en Minería de Datos por la UBA, combina su experiencia profesional con la docencia en programación y estadística. Es coorganizadora del capítulo de Buenos Aires de R-Ladies e integrante del equipo global. Además, es instructora certificada de The Carpentries.
+
+
+
 
 ### Pautas de convivencia
 
-Estas son nuestras [pautas de convivencia](https://doi.org/10.5281/zenodo.12534195). Nos ayudan a fomentar un ambiente abierto, seguro y amigable y garantizar la participación de todas las personas en nuestras actividades y espacios virtuales.
+Este curso se desarrollará considerando estas [pautas de convivencia](https://doi.org/10.5281/zenodo.12534195). Nos ayudan a fomentar un ambiente abierto, seguro y amigable y garantizar la participación de todas las personas en nuestras actividades y espacios virtuales.
 
 Alentamos a la comunidad a apropiarse y a participar de estas pautas para que representen a todas las personas. Nos comprometemos a construir una
 comunidad amigable y respetuosa, y aunque en algunas ocasiones fallaremos, nuestro objetivo es que todas las personas reciban un trato justo, inclusivo y lo más equitativo posible. 
