@@ -5,19 +5,6 @@
 El curso “Formación para enseñar” está diseñado para personas que enseñan o quieren enseñar programación y ciencias de datos, pero que rara vez han recibido una capacitación práctica sobre cómo se enseña y cómo aprenden las personas estos temas.
 En este curso, adquirirás conocimientos, habilidades y herramientas prácticas, con eficacia comprobada, para planificar, impartir y mejorar tus clases. El objetivo no es convertirte en especialista en educación, sino que puedas aplicar principios prácticos fundamentales de la enseñanza basada en evidencia en tus talleres y cursos.
 
-
-**Fechas:**
-- 14 de enero, 2026 - 9.00 a 17.00hs
-- 15 de enero, 2026 - 9.00 a 12.45hs
-- 16 de enero, 2026 - 9.00 a 12.45hs
-
-
-**Lugar:** Observatorio de Arecibo, Puerto Rico. 
-
-
-**Link para registrarte:** https://forms.zohopublic.com/coldspringharborlaboratory/form/Metadocencia/formperma/h5QgJLhCyX4hzou5KEC-4OfxIB7xKqmtaW0BcnUGJls
-
-
 ## Objetivos
 
 Esta capacitación tiene como objetivos:
@@ -38,19 +25,13 @@ Al concluir esta formación, podrás:
 ## ¿Para quién?
 
 No se requieren conocimientos técnicos avanzados. Sin embargo, esperamos que tengas alguna familiaridad básica con un lenguaje de programación (por ejemplo, R o Python).
+Para poder participar de forma activa y obtener el mayor provecho posible, trae tu computadora personal al asistir al taller.  
 
 Cuando diseñamos este taller, teníamos a Andrea, Florencia y Diego en mente: 
 
 - **Andrea** tiene 30 años, una beca postdoctoral y ansía entrar pronto a la carrera de investigación. Ganó su primer concurso docente y comenzará a enseñar análisis de datos usando R para estudiantes de grado de Biología Computacional. Sabe mucho sobre el tema que va a enseñar, pero no tiene formación docente y necesita herramientas para poder transmitir los contenidos de forma eficiente.
 - **Diego** trabaja como personal de apoyo a la investigación en una universidad, con amplia experiencia técnica en Git, Bash y Python, y suele facilitar talleres de estos temas para investigadores. Quiere transformar sus clases en experiencias más activas, aprender a anticipar dificultades comunes de principiantes y fortalecer la red de capacitación de su institución. Aunque domina lo técnico, le cuesta dosificar contenidos y ponerse en el lugar de quienes recién comienzan.
 - **Florencia** es docente universitaria con varios años de experiencia en clases magistrales y está en proceso de integrar metodologías activas en sus cursos. Aunque domina bien el contenido, busca estrategias concretas para fomentar la participación, estructurar actividades prácticas y evaluar el aprendizaje de manera más formativa. Le interesa aprender técnicas de enseñanza basadas en evidencia, aunque a veces le preocupa salir de su zona de confort y gestionar la incertidumbre que generan las clases más interactivas.
-
-## Requisitos
-
-- Para poder participar de forma activa y obtener el mayor provecho posible, **trae tu computadora personal al asistir al taller**.  
-
-- El uso de Wi-Fi está prohibido en el establecimiento. **Tu laptop debe contar con conexión por ethernet para acceder a internet en las salas de reuniones. Se recomienda enfáticamente traer un adaptador de ethernet**, ya que solo habrá un número limitado de adaptadores disponibles.
-
 
 ## ¿Qué no incluye este taller?
 
@@ -67,7 +48,7 @@ El taller tiene una duración total de 16 horas, incluyendo los intervalos, dist
 A continuación tienes un ejemplo de cronograma:
 
 
-#### Día 1 (14 de enero, 2026)
+#### Día 1
 
 | Hora  | Tema |
 |-------|------|
@@ -85,7 +66,7 @@ A continuación tienes un ejemplo de cronograma:
 | 17:00 | Final del día 1 |
 
 
-#### Día 2 (15 de enero, 2026)
+#### Día 2
 
 |Hora         |Tema                                               |
 |-------------|---------------------------------------------------|
@@ -96,7 +77,7 @@ A continuación tienes un ejemplo de cronograma:
 |12:00        |Simulación de entrenamiento 1                      |
 |12:45        |Final del día 2                                    |
 
-#### Día 3 (16 de enero, 2026)                                                  
+#### Día 3                                                  
 
 |Hora         |Tema                                     |
 |-------------|-----------------------------------------|
@@ -111,12 +92,10 @@ A continuación tienes un ejemplo de cronograma:
 
 ## Certificación
 
-Para completar la capacitación y acceder a la certificación de **MetaDocencia**, deberás:
+Para completar la capacitación y acceder a la certificación de MetaDocencia, deberás:
 
-- Asistir a los días del curso presencial.
+- Asistir a los días del curso presencial o virtual (según sea el caso).
 - Realizar una breve demostración de enseñanza (5 minutos) usando programación en vivo, que será evaluada según su claridad, manejo del tiempo y aplicación de buenas prácticas. Te daremos más detalles sobre este ítem durante el curso.
-
-A su vez, **Arecibo C3** otorgará un certificado por asistencia. 
 
 
 ## Pautas de convivencia

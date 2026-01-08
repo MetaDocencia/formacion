@@ -84,10 +84,8 @@ Esta falta de jerarquía cognitiva es normal al comienzo: hasta que no se desarr
 
 Por último, es importante notar que la confianza, o la falta de ella, no es un buen indicador del nivel de experticia. Esto se debe al **efecto Dunning-Kruger**, un sesgo cognitivo según el cual, cuanto menos sabe una persona sobre un tema, menos precisa es su percepción de su propio conocimiento. En otras palabras, muy frecuentemente quienes saben poco sobre un tema suelen sobreestimar sus habilidades, mientras que quienes saben mucho tienden a subestimarlas.
 
-![Imagen basada en Shloren, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons](fig/Dunning-Krugger.png){alt="El gráfico muestra una curva amarilla que ilustra el efecto Dunning-Kruger. En el eje horizontal se representa el nivel de conocimiento del área, de menor a mayor, y en el eje vertical el nivel de confianza, también de menor a mayor.
-La curva comienza en el extremo inferior izquierdo con un punto etiquetado como Eh?, asciende rápidamente hasta un pico marcado como Ya sé todo, desciende al pasar por Esto es más de lo que pensaba y alcanza su punto más bajo en Nunca voy a entender esto.
-A partir de allí, la línea asciende de forma gradual atravesando Empieza a tener sentido y culmina en el extremo superior derecho con Créeme, es complicado.
-Cada etapa está señalada con un punto rojo que muestra cómo la confianza fluctúa a medida que aumenta el conocimiento."}
+![Imagen basada en Shloren, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons](fig/Dunning-Krugger.png){alt="El gráfico muestra una curva roja que ilustra el efecto Dunning-Kruger. En el eje horizontal se representa el nivel de competencia en el área, de menor a mayor, y en el eje vertical el nivel de confianza, también de menor a mayor. La curva comienza en el extremo inferior izquierdo, asciende rápidamente hasta un pico marcado como Ya soy un experto, desciende al pasar por Esto es más difícil de lo que pensaba y alcanza su punto más bajo en Nunca voy a entender esto. A partir de allí, la línea asciende de forma gradual atravesando Empieza a tener sentido y culmina en el extremo superior derecho con Créeme, es complicado. Muestra cómo la confianza fluctúa a medida que aumenta el conocimiento."}
+
 
 
 ::: callout
